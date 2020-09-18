@@ -5,3 +5,13 @@ body {
 h2 {color: rgb(107, 21, 89);}
 h1 {color: rgb(70, 21, 71);}
 p{font-size: 30px;}
+
+div{ position: absolute;
+    left: 150px;
+    }
+h1{position: absolute;
+left: 800px;}
+
+        
+        
+     
