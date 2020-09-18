@@ -1,1 +1,7 @@
-body {background-color: bisque;}
+body {
+    background-color: rgb(238, 213, 245);
+    font-family:'Annie Use Your Telescope';font-size: 22px;
+}
+h2 {color: rgb(107, 21, 89);}
+h1 {color: rgb(70, 21, 71);}
+p{font-size: 30px;}
